@@ -2,7 +2,7 @@ function Blog
     clc
     
     %% imports tidbits
-    fileloc='C:\Users\ltsai\Documents\Personal\Github\LukeWebsite\LukeBlog\strata\';
+    fileloc='C:\Users\ltsai\Documents\Personal\Github\LukeWebsite\LukeBlog\';
        
     source_files = dir(fullfile([fileloc,'blogposts\'], '*.html'));
     header=fileread([fileloc,'formatting\header.txt']);
