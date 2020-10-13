@@ -1,0 +1,26 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>[title]</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<header id="header">
+				<div class="inner">
+							<ul class="actions fit">
+								<li><a href="index.html#theology" class="button blogtopic">Theology</a></li>
+								<li><a href="index.html#philosophy" class="button blogtopic">Philosophy</a></li>
+								<li><a href="index.html#faith" class="button blogtopic">Faith</a></li>
+								<li><a href="index.html#art" class="button blogtopic">Art</a></li>
+								<li><a href="index.html#writing" class="button blogtopic">Writing</a></li>
+								<li><a href="index.html" class="button blogtopic">All</a></li>
+							</ul>
+				</div>
+			</header>
+
+		<!-- Main -->
+			<div id="main">

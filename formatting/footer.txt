@@ -1,0 +1,19 @@
+			</div>
+
+		<!-- Footer -->
+			<footer id="footer">
+				<div class="inner" style="text-align:center;">
+					<a href="https://www.luke-tsai.com">Return to Home</a>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
